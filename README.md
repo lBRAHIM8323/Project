@@ -21,7 +21,7 @@ The purpose of this project is to map the product descriptions from the POS term
 ## Usage
 
 1. Clone the project repository from GitHub.
-2. Install the required dependencies specified in the `requirements.txt` file.
-3. Place the two CSV files, namely `amazon_data.csv` and `pos_terminal_data.csv`, in the project directory.
+2. Install the required dependencies specified in the `A_final.ipynb` file.
+3. Place the two CSV files, namely `amazon_data.csv` and `jaggi_756_ProductMaster.csv`, in the project directory.
 4. Run the main script, `data_mapping.py`, to perform the mapping process.
 5. Once the mapping is completed, the script will generate a new CSV file, `amazon_catalogue_modified.csv`, containing the mapped data.
